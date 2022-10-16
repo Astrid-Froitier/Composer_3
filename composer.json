@@ -1,0 +1,18 @@
+{
+  "name": "wild/app",
+  "description": "wild composer quest 3",
+  "autoload": {
+    "psr-4": {
+      "Cowsay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Astrid-Froitier",
+      "email": "asfroitier@gmail.com"
+    }
+  ],
+  "require": {
+    "gipetto/cowsay": "^1.1"
+  }
+}
